@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="69mm"
+   height="50mm"
+   viewBox="0 0 69 50"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Iniciales.svg"
+   inkscape:export-filename="D:\Next U\Web Design\Evaluación Web Desing\Evaluaci-n-Web-Desing\Logo\Iniciales.html.png"
+   inkscape:export-xdpi="300.89999"
+   inkscape:export-ydpi="300.89999"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2462">
+      <stop
+         style="stop-color:#91ff00;stop-opacity:1;"
+         offset="0"
+         id="stop2458" />
+      <stop
+         style="stop-color:#91ff00;stop-opacity:0;"
+         offset="1"
+         id="stop2460" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2438"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2436" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.49997 : 1"
+       inkscape:vp_y="0 : 999.99993 : 0"
+       inkscape:vp_z="210 : 148.49997 : 1"
+       inkscape:persp3d-origin="105 : 98.999996 : 1"
+       id="perspective857" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient841">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop837" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop839" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient841"
+       id="linearGradient843"
+       x1="123.10194"
+       y1="12.724396"
+       x2="110.07475"
+       y2="15.652989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-73.775101,8.3998774)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient841"
+       id="linearGradient906"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-15.987441,16.830437)"
+       x1="123.10194"
+       y1="12.724396"
+       x2="110.07475"
+       y2="15.652989" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2462"
+       id="radialGradient2464"
+       cx="102.97153"
+       cy="54.266338"
+       fx="102.97153"
+       fy="54.266338"
+       r="33.620163"
+       gradientTransform="matrix(1,0,0,0.68726856,0,16.97079)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.726111"
+     inkscape:cx="78.42145"
+     inkscape:cy="-2.094806"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g922"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:object-paths="true"
+     height="137mm"
+     inkscape:window-width="1935"
+     inkscape:window-height="1118"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     gridtolerance="24"
+     objecttolerance="10000" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-247)">
+    <g
+       id="g922"
+       transform="translate(-68.364181,217.2019)"
+       style="fill-opacity:1;fill:url(#radialGradient2464)">
+      <g
+         id="g1433">
+        <ellipse
+           mask="none"
+           style="opacity:0.956;fill:url(#radialGradient2464);fill-opacity:1;stroke:#ff6600;stroke-width:1;stroke-opacity:1"
+           id="path827"
+           cx="102.97153"
+           cy="54.266338"
+           rx="33.120163"
+           ry="22.606081" />
+        <flowRoot
+           mask="none"
+           xml:space="preserve"
+           id="flowRoot815"
+           style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.52899996;fill:url(#radialGradient2464);fill-opacity:1;fill-rule:nonzero;stroke:#ff66b2;stroke-width:1.32827604;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.57447102,0,0,0.64413655,39.6386,4.3681988)"><flowRegion
+             id="flowRegion817"
+             style="fill:url(#radialGradient2464);fill-opacity:1;fill-rule:nonzero;stroke:#ff66b2;stroke-width:1.32827604;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
+               id="rect819"
+               width="330.31989"
+               height="201.02036"
+               x="61.619305"
+               y="63.879818"
+               style="fill:url(#radialGradient2464);fill-opacity:1;fill-rule:nonzero;stroke:#ff66b2;stroke-width:1.32827604;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+             id="flowPara821"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;line-height:0;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold Italic';fill:url(#radialGradient2464);fill-opacity:1;fill-rule:nonzero;stroke:#ff66b2;stroke-width:1.32827604;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">MACN</flowPara></flowRoot>        <text
+           mask="none"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9.66761112px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2b2200;fill-opacity:1;stroke:none;stroke-width:0.5179078;"
+           x="114.38107"
+           y="53.904297"
+           id="text825"
+           transform="scale(0.78106828,1.2802978)"><tspan
+             sodipodi:role="line"
+             id="tspan823"
+             x="114.38107"
+             y="53.904297"
+             style="stroke-width:0.5179078;fill-opacity:1;fill:#2b2200;">Mercadeo</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
